@@ -1,0 +1,1 @@
+youtube-dl  -f $1 --newline --output $2 --no-check-certificate $3
